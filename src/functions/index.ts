@@ -1,0 +1,5 @@
+export { default as processAnalysisResult } from './processAnalysisResult'
+export { default as getLatestDistracted } from './getLatestDistracted'
+export { default as findClass } from './findClass'
+export { default as getTeacherRecommendation } from './getTeacherRecommendation'
+export { default as getLatestFaces } from './getLatestFaces'
